@@ -1,7 +1,9 @@
 # der-n-ogrenme-proje
-# 🧠 Brain Tumor Detection with Deep Learning  
-**Akbank Derin Öğrenme Bootcamp Projesi**
 
+# 🧠 Brain Tumor Detection with Deep Learning  
+
+**Akbank Derin Öğrenme Bootcamp Projesi**
+📌 Proje Kaggle Notebook linki:[ https://www.kaggle.com/code/hafzanurkose/derin-ogrenme-proje](https://www.kaggle.com/code/hafzanurkose/derin-ogrenme-proje)
 Bu proje, Kaggle üzerinde yer alan **Brain Tumor MRI Dataset** kullanılarak gerçekleştirilmiştir. Amaç, MRI görüntülerinden beyin tümörlerini tespit eden bir **Convolutional Neural Network (CNN)** modeli geliştirmektir.  
 
 ---
