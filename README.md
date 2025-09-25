@@ -1,0 +1,1 @@
+# der-n-ogrenme-proje
