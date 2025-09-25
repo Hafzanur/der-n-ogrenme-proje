@@ -33,8 +33,11 @@ Notebook içerisinde markdown hücreleri ile proje adımları açıklanmıştır
 Eğitim sonucunda elde edilen metrikler:
 
 Eğitim Doğruluğu (accuracy): son epoch’ta 0.9684
+
 Doğrulama Doğruluğu (val_accuracy): son epoch’ta 0.9558
+
 Eğitim Kaybı (loss): 0.0975
+
 Doğrulama Kaybı (val_loss): 0.1453
 
 📈 Grafikler: Eğitim ve doğrulama sürecinde loss ve accuracy eğrileri başarıyla çizdirilmiştir.
